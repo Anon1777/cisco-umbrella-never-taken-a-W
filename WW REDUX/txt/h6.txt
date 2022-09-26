@@ -1,0 +1,13 @@
+SOW:
+* I will fix the tables showing up regardless of scores posted or not.
+* I will finish the Module 3 documentation.
+
+EOW:
+* I fixed the tables so that they will only show up if there are scores in the database.
+* I worked on and finished the Module 3 documentation.
+
+Challenges:
+* I had trouble modeling the documentation, so I wrote what I thought was necessary and checked it against other documentation examples.
+
+Communication:
+* I thought I had run into an error fixing the tables, so I asked my mentor if it looked correct and he confirmed that it was right.

@@ -1,0 +1,14 @@
+SOW:
+* I will split the scores table into four columns.
+
+EOW:
+* I have split the scores table into four columns using the method given to me last week.
+
+Challenges:
+* I was having trouble getting the math to work and then realized that the math wasn't necessary.
+* I was having trouble selecting 12 items in the table, and then 13 in the next query etc.
+* I could not get the numbers to be accurately distributed between the four columns.
+
+Communication:
+* I asked for help on splitting the table.
+* I logged my progress.

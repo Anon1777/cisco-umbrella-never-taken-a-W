@@ -1,0 +1,11 @@
+SOW:
+* I will create a CLI for deleting sample data.
+
+EOW:
+* I have created a CLI for deleting data from the dump page.
+
+Challenges:
+* I wondered if I should delete the sample data button along with making the new command.
+
+Communication:
+* I asked my mentor about the sample data and I deleted it according to it
