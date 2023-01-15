@@ -1,9 +1,0 @@
-SOW:
-* I will create a dump page for the data in the tables.
-EOW:
-* I made a dump page for the data in the teams, shooters, stations, and scores tables, but errors with the terminal hindered me from testing to see if the dump functions actually worked or not.
-Challenges:
-* Dump commands didn't dump data and instead just returned the function id.
-* Terminal refused to update, hindering me from testing to see if the previous challenge got fixed.
-Communication:
-* I asked my mentor for help and he helped me thoroughly.
